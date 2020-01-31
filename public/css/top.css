@@ -1,0 +1,227 @@
+body {
+  font-family: "Hiragino Kaku Gothic ProN";
+  
+  
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url();
+  background-size: cover;
+  color: white;
+  text-align: center;
+  height: 500px;
+}
+
+.top-wrapper h1 {
+  opacity: 0.7;
+  font-size: 45px;
+  letter-spacing: 5px;
+}
+
+.top-wrapper p {
+  opacity: 0.7;
+}
+
+.btn-wrapper {
+  margin: 20px 0;
+  
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+
+.line {
+
+}
+
+.facebook {
+ 
+}
+
+.twitter {
+
+}
+
+.instagram {
+ 
+}
+
+.btn {
+  padding: 8px 24px;
+  color: black;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+header {
+  height: 80px;
+  width: 100%;
+  position: fixed;
+  z-index: 10;
+  background-color: rgba(217,192,156,1);
+	background-image:
+	 linear-gradient(45deg, rgba(224,203,173,1) 25%, transparent 25%,
+	  transparent 75%, rgba(224,203,173,1) 75%, rgba(224,203,173,1)),
+	 linear-gradient(-45deg, rgba(224,203,173,1) 25%, transparent 25%,
+	  transparent 75%, rgba(224,203,173,11) 75%, rgba(224,203,173,1));
+	background-size: 20px 20px;
+	background-position: 0 0, 10px 10px;
+}
+
+.logo {
+  width: 160px;
+  margin-top: 0px;
+}
+
+.header-left {
+  float: left;
+}
+
+.gnav-menu-item {
+  float: right;
+  padding: 13px 40px;
+}
+
+.gnav-menu-item a {
+  color: #000;
+}
+
+li {
+  list-style: none;
+}
+
+
+.header-list:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+
+.header-right a {
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+  display: block;
+}
+
+
+
+.content-wrapper {
+  height: 500px;
+  padding-bottom: 80px;
+  background-color: #FFEFD5;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+}
+
+.heading h2 {
+  font-weight: normal;
+}
+
+.content {
+  float: left;
+  width: 25%;
+}
+
+.content-icon {
+  position: relative;
+}
+
+.content-icon p {
+  position: absolute;
+  top: 90px;
+  width: 100%;
+  color: white;
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 12px;
+  color: #b3aeb5;
+}
+
+.heading h3 {
+  font-weight: normal;
+}
+
+.message-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
+  background-color: #FFEFD5;
+}
+
+.message {
+  padding: 15px 40px;
+  background-color: #5dca88;
+  cursor: pointer;
+  box-shadow: 0 7px #1a7940;
+}
+
+.message:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
+
+
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+  margin: 20px
+}
+
+.footer-logo p {
+  font-size: 12px;
+  padding: 10px;
+}
+
+
+.container {
+
+  background-color: rgba(217,192,156,1);
+	background-image:
+	 linear-gradient(45deg, rgba(224,203,173,1) 25%, transparent 25%,
+	  transparent 75%, rgba(224,203,173,1) 75%, rgba(224,203,173,1)),
+	 linear-gradient(-45deg, rgba(224,203,173,1) 25%, transparent 25%,
+	  transparent 75%, rgba(224,203,173,11) 75%, rgba(224,203,173,1));
+	background-size: 20px 20px;
+	background-position: 0 0, 10px 10px;
+}
+
+.row {
+
+  background-color: rgba(217,192,156,1);
+	background-image:
+	 linear-gradient(45deg, rgba(224,203,173,1) 25%, transparent 25%,
+	  transparent 75%, rgba(224,203,173,1) 75%, rgba(224,203,173,1)),
+	 linear-gradient(-45deg, rgba(224,203,173,1) 25%, transparent 25%,
+	  transparent 75%, rgba(224,203,173,11) 75%, rgba(224,203,173,1));
+	background-size: 20px 20px;
+	background-position: 0 0, 10px 10px;
+}
+
